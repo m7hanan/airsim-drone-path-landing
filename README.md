@@ -1,8 +1,8 @@
 # 🛸 Autonomous Drone Navigation in AirSim
-<img width="1918" height="1078" alt="Screenshot 2025-07-23 103449" src="https://github.com/user-attachments/assets/cf962eb0-4d0c-4e7c-a5a0-f0f3e202ec7b" />
-
 
 <img width="1909" height="1065" alt="Screenshot 2025-07-23 103435" src="https://github.com/user-attachments/assets/13bd5302-2ff1-44ba-bd24-08c0b06c5711" />
+
+
 
 This project demonstrates an autonomous drone flying through predefined waypoints and auto-landing using Microsoft's AirSim simulator and Python APIs.
 
@@ -10,7 +10,7 @@ This project demonstrates an autonomous drone flying through predefined waypoint
 
 ## 📽️ Demo Video
 
-
+<img width="1918" height="1078" alt="Screenshot 2025-07-23 103449" src="https://github.com/user-attachments/assets/cf962eb0-4d0c-4e7c-a5a0-f0f3e202ec7b" />
 ---
 
 ## 🚀 Project Overview
