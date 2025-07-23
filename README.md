@@ -98,7 +98,7 @@ Waypoints are defined in config/waypoints.json:
 
 
 
-<img width="1790" height="947" alt="Screenshot 2025-07-23 103435" src="https://github.com/user-attachments/assets/6240c302-5f03-4afd-88e5-faa86de0f64e" />
+<img width="1828" height="929" alt="Screenshot 2025-07-23 103449" src="https://github.com/user-attachments/assets/1677afca-61cc-461b-b028-9060d4eeab6a" />
 
 
 
