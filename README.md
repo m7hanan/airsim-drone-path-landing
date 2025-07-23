@@ -18,7 +18,6 @@ The drone takes off, navigates between multiple waypoints, and automatically lan
 
 
 
-<img width="1790" height="947" alt="Screenshot 2025-07-23 103435" src="https://github.com/user-attachments/assets/3e3bb546-d39a-46cb-9bc1-5b359198b2fd" />
 
 
 ### ✨ Features
@@ -95,6 +94,12 @@ Waypoints are defined in config/waypoints.json:
     { "x": 20, "y": 0, "z": -10 }
   ]
 }
+
+
+
+<img width="1790" height="947" alt="Screenshot 2025-07-23 103435" src="https://github.com/user-attachments/assets/b2a78a15-7ecc-4edc-a6b5-e083ecc7cb3a" />
+
+
 
 
 🛠️ Future Improvements
