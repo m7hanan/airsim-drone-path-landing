@@ -99,3 +99,9 @@ Real drone integration with PX4
 
 📜 License
 This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Hanan
+University of Colombo | AI + Drone Enthusiast
+📧 m7hanan@gmail.com
+
