@@ -50,7 +50,7 @@ project-root/
 
 ⚙️ Setup Instructions
 1. Clone This Repo
-git clone https://github.com/yourusername/airsim-drone-waypoints.git
+git clone https://github.com/m7hanan/airsim-drone-waypoints.git
 cd airsim-drone-waypoints
 
 2. Install Python Dependencies
